@@ -1,3 +1,9 @@
 [submodule "thich-doc-truyen-frontend"]
 	path = thich-doc-truyen-frontend
 	url = https://github.com/SE-Academic-Group/thich-doc-truyen-frontend.git
+
+[submodule "thich-doc-truyen-backend"]
+	path = thich-doc-truyen-backend
+	url = https://github.com/nguyenphucphat/sd-project-1.git
+	branch = develope
+
