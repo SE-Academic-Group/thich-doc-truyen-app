@@ -1,0 +1,3 @@
+[submodule "thich-doc-truyen-frontend"]
+	path = thich-doc-truyen-frontend
+	url = https://github.com/SE-Academic-Group/thich-doc-truyen-frontend.git
