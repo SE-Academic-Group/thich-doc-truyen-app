@@ -4,6 +4,7 @@
 [submodule "thich-doc-truyen-backend"]
 	path = thich-doc-truyen-backend
 	url = https://github.com/SE-Academic-Group/thich-doc-truyen-backend.git
+	branch = develope
 [submodule "thich-doc-truyen-docs"]
 	path = thich-doc-truyen-docs
 	url = https://github.com/SE-Academic-Group/thich-doc-truyen-docs.git
