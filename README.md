@@ -1,6 +1,6 @@
-# THICH DOC TRUYEN - WEB APPLICATION 
+# THICH DOC TRUYEN - WEB APPLICATION
 
-This is one centralized repo for Backend and Frontend GitHub repository.
+This is one centralized repo for Backend, Frontend, and Docs GitHub repository.
 
 ## Additional notes
 
